@@ -1,11 +1,16 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center"><b>Hi , I'm Mg Oo   </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=50&lines=A+Passionate+React+Frontend+Developer;Love+to+learn+new+languages+and+coding+.....<3"></a></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mg-oo&label=Profile%20views&color=0e75b6&style=flat" alt="mg-oo" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mg-oo&label=Profile%20views&color=0e75b6&style=flat" alt="mg-oo" /> 
+  <!-- <img src="https://img.shields.io/github/followers/Mg-Oo?label=Follow&style=social)](https://github.com/Mg-Oo" /> -->
+</p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+
+- 🔭 I’m currently working on React Projects
 
 - 🌱 I’m currently learning **CSS Frameworks, JavaScript, WebPack, Node.js**
 
