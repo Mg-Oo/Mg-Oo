@@ -1,3 +1,11 @@
+<!--
+  Reference Links
+    readme generator : https://rahuldkjain.github.io/gh-profile-readme-generator/
+    readme templates : https://github.com/Scar1109/awesome-github-profile-readme-templates/tree/master/templates
+    readme stats     : https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#demo
+    github badges    : https://dev.to/envoy_/150-badges-for-github-pnk#skills
+-->
+
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center"><b>Hi , I'm Mg Oo   </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=50&lines=A+Passionate+React+Frontend+Developer;Love+to+learn+new+languages+and+coding+.....<3"></a></p>
