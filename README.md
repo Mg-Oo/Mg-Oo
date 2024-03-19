@@ -1,7 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center"><b>Hi , I'm Mg Oo   </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=50&lines=A+Passionate+React+Frontend+Developer,;Love+to+learn+new+languages..<3"></a></p>
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=50&lines=A+Passionate+React+Frontend+Developer,;Love+to+learn+new+languages..<3"></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mg-oo&label=Profile%20views&color=0e75b6&style=flat" alt="mg-oo" /> </p>
 
 <table align="center">
@@ -22,12 +21,9 @@
 </table>
 
 <br>
-
----
-
 <br>
 
-## <p align="center"><picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="20"></picture> **Skills**</p>
+## <h1 align="center"><picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="20"></picture> **Skills**</h1>
 
 <br>
 
@@ -89,15 +85,11 @@
   
 </p>
 <br>
-
----
-
 <br>
 
-## <p align="center"><b> Let's Connect..!</b><img src="./images/handshake.gif" width ="60"></p>
+## <h1 align="center"><b> Let's Connect..!</b><img src="./images/handshake.gif" width ="60"></h1>
 
 <br>
-
 <div align='center'>
 <a href="https://www.linkedin.com/in/mg-oo-569b85235" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"></a>
 <a href="https://www.facebook.com/profile.php?id=100011959217956&mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="25"></a>
