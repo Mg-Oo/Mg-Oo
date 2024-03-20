@@ -1,21 +1,21 @@
 <!--
   Reference Links
     readme generator : https://rahuldkjain.github.io/gh-profile-readme-generator/
-    readme templates : https://github.com/Scar1109/awesome-github-profile-readme-templates/tree/master/templates
+    readme templates : https://github.com/Mg-Oo/awesome-github-profile-readme-templates/tree/master/templates
     readme stats     : https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#demo
     github badges    : https://dev.to/envoy_/150-badges-for-github-pnk#skills
 -->
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="150px" display="flex" flex-direction="reverse"></p>
 <h1 align="center"><b>Hi , I'm Mg Oo   </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=50&lines=A+Passionate+React+Frontend+Developer;Love+to+learn+new+languages+and+coding+.....<3"></a></p>
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=700&height=50&lines=A+Passionate+React+Frontend+Developer;Love+to+learn+new+languages+and+coding+.....<3"></a></p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mg-oo&label=Profile%20views&color=0e75b6&style=flat" alt="mg-oo" /> 
   <!-- <img src="https://img.shields.io/github/followers/Mg-Oo?label=Follow&style=social)](https://github.com/Mg-Oo" /> -->
 </p>
 
 <table align="center">
-<tr border="none">
+<tr border="none"  margin="10px">
 <td width="50%" align="left">
 
 - 🔭 I’m currently working on React Projects
@@ -28,7 +28,7 @@
 
 </td>
   <td width="50%" align="center">
-    <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+    <img align="center" alt="Coding" width="450" src="https://c0.wallpaperflare.com/preview/920/519/697/abstract-php-c-analytics.jpg">
   </td>
 </tr>
 </table>
@@ -36,7 +36,7 @@
 <br>
 <br>
 
-## <h1 align="center"><picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="20"></picture> **Skills**</h1>
+## <h1 align="center"><picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="25"></picture> **Skills**</h1>
 
 <br>
 
@@ -99,6 +99,29 @@
 </p>
 <br>
 <br>
+
+<!--
+## <h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> My Statistics </h1>
+<br>
+
+<p align="center">
+<table align="center">
+<tr border="none">
+  <td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mg-Oo&theme=dark&show_icons=true&count_private=true" />
+    <br></br>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mg-Oo&theme=dark&hide_border=false" /> 
+  </td>
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mg-Oo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
+</p>
+
+<br>
+<br>
+-->
 
 ## <h1 align="center"><b> Let's Connect..!</b><img src="./images/handshake.gif" width ="60"></h1>
 
