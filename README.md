@@ -6,7 +6,7 @@
     github badges    : https://dev.to/envoy_/150-badges-for-github-pnk#skills
 -->
 
-<p align="center" ><img src="https://github.com/Mg-Oo/Mg-Oo/blob/main/images/coding.gif?raw=true" width="150px"></p>
+<p align="center" ><img src="./images/coding.gif?raw=true" width="150px"></p>
 <h1 align="center"><b>Hi , I'm Mg Oo   </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=700&height=50&lines=A+Passionate+React+Frontend+Developer;Love+to+learn+new+languages+and+coding+.....<3"></a></p>
 <p align="center"> 
